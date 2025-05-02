@@ -16,7 +16,9 @@ This repository gathers Python-based tools and models developed for the **recons
 
 ---
 
-## Related Repositories
+## Related Projects
 
-- 📄 [7T-SC-qMRI-protocol](https://github.com/tngrssl/7T-SC-qMRI-protocol) – MRI protocol and SOP  
-- 📦 [7T-SC-qMRI-data](https://github.com/tngrssl/7T-SC-qMRI-data) – Representative dataset for testing and development  
+- 📄 [7T-SC-qMRI-protocol](https://github.com/crmbm-spinalcord/7T-SC-qMRI-protocol) – MRI protocol and SOP  
+- 💻 [7T-SC-qMRI-data](https://github.com/crmbm-spinalcord/7T-SC-qMRI-data) – Representative dataset for testing and development  
+
+---
