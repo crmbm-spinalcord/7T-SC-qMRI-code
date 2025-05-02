@@ -1,8 +1,6 @@
-# 7T SC qMRI Code
+# Pipelines & codes for SC MRI and MRS
 
-This repository gathers Python-based tools and models developed for the **reconstruction, processing, analysis, and quantification** of MRI and MRS data acquired in the human spinal cord at **7 Tesla**, as part of the 7T SC qMRI project.
-
-
+This repository gathers Python-based tools and models developed for the **reconstruction, processing, analysis, and quantification** of MRI and MRS data acquired in the human spinal cord 
 
 ## Code Contributions
 
@@ -18,7 +16,6 @@ This repository gathers Python-based tools and models developed for the **recons
 
 ## Related Projects
 
-- 📄 [7T-SC-qMRI-protocol](https://github.com/crmbm-spinalcord/7T-SC-qMRI-protocol) – MRI protocol and SOP  
-- 📦 [7T-SC-qMRI-data](https://github.com/crmbm-spinalcord/7T-SC-qMRI-data) – Representative dataset for testing and development  
+- 📄 [7T-SC-qMRI](https://github.com/crmbm-spinalcord/7T-SC-qMRI)  
 
 ---
