@@ -6,6 +6,7 @@ This repository gathers Python-based tools and models developed for the **recons
 
 | Contribution  | Repository | Description |
 |------------------|----------------|----------------|
+| 📏 7T T1 mapping | 7T spinal cord T1 mapping | 🚧 Coming soon |
 | 📈 Spectroscopy | [`PASTIS`](https://github.com/tngrssl/pastis) | Toolbox to reconstruct, process, and quantify spinal cord MRS data at 7T. Includes motion detection and correction features. |
 | 🩸 Perfusion (DSC) | [`7T-DSC-MRI-Toolbox`](https://github.com/slevyrosetti/7T-DSC-MRI-Toolbox) | Functions and pipeline for processing Dynamic Susceptibility Contrast (DSC) MRI data acquired in the spinal cord at 7T. |
 | 💧 Perfusion (IVIM) | [`ivim-toolbox`](https://github.com/slevyrosetti/ivim-toolbox) | Toolbox for IVIM model fitting and simulation. Developed to estimate spinal cord perfusion metrics. |
